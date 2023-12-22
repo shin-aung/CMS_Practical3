@@ -87,3 +87,54 @@ Learning Opportunity: Infinity Free allows me to experiment and learn more about
 However, I am aware of the security limitations on Infinity Free. To address this concern, I took proactive steps to enhance the security of my website by following a tutorial to apply an SSL certificate. While it doesn't make the platform entirely secure, it adds an extra layer of protection to my website.
 
 In the future, as my website grows and if budget allows, I might consider migrating to a more secure hosting platform. For now, Infinity Free serves as a starting point for my online presence, offering a balance between cost-effectiveness and the opportunity to learn.
+
+**Interview Questions:**
+
+**1. Haidong Wang:**
+
+**a. Technical Skills:**
+- Question: Can you discuss your experience with programming languages relevant to our CMS project, such as Python and HTML?
+- Answer: I have a strong background in both Python and HTML, having worked on various projects and coursework that involved these languages. For example, I recently completed a project where I developed a dynamic website using Python and Flask, showcasing my proficiency in web development.
+
+**b. Problem-Solving:**
+- Question: How do you approach problem-solving in a programming context? Can you share an example of a challenging problem you've encountered and how you addressed it?
+- Answer: I believe in a systematic approach to problem-solving. Recently, I faced an issue with optimizing the performance of a web application. I conducted a thorough analysis, identified the bottleneck, and implemented code optimizations, resulting in a significant improvement in the application's speed and responsiveness.
+
+**2. Xunzheng Chen:**
+
+**a. Collaboration and Communication:**
+- Question: How do you approach working in a team, and can you share an example of a successful team project you've been a part of in the past?
+- Answer: I thrive in a collaborative environment. In my previous project, our team successfully developed a mobile application. I actively participated in brainstorming sessions, communicated effectively with team members, and ensured that everyone's ideas were considered. This experience taught me the importance of teamwork and effective communication.
+
+**b. Creativity and Innovation:**
+- Question: How do you contribute creatively to a project? Can you provide an example where your innovative thinking led to a unique solution?
+- Answer: I enjoy exploring creative solutions to problems. In a recent project, we needed to enhance the user experience of a website. I suggested implementing a novel navigation system that received positive feedback from users during testing. This experience taught me the importance of thinking outside the box to deliver innovative solutions.
+
+**3. Xinyue Li:**
+
+**a. Attention to Detail:**
+- Question: How do you ensure attention to detail in your work, particularly in a project like ours where precision is essential?
+- Answer: Attention to detail is one of my strengths. In my previous projects, I have developed a meticulous approach to reviewing code and documentation. For instance, I implemented a rigorous code review process that helped identify and rectify potential issues before they impacted the project's quality.
+
+**b. Organizational Skills:**
+- Question: How do you manage deadlines and project timelines? Can you share an example where your organizational skills played a crucial role in the successful completion of a project?
+- Answer: I am well-organized and prioritize tasks effectively. In a recent project, I created a detailed project plan that outlined specific milestones and deadlines. This plan ensured that each team member knew their responsibilities and deadlines, contributing to the project's timely completion.
+
+**The reason why I choose my team members for content management system assignment.**
+
+**Haidong Wang:**
+
+Haidong Wang has consistently displayed a deep understanding of programming languages, especially those relevant to our CMS project, such as Python and HTML. His proficiency in coding will be invaluable as we navigate the complexities of developing and implementing various features for our content management system.
+In addition to technical skills, Haidong has a proactive approach to problem-solving. He doesn't just identify issues; he actively seeks solutions and collaborates with others to address challenges effectively. This problem-solving mentality is crucial for the success of our CMS assignment, where unforeseen obstacles may arise.
+
+**Xunzheng Chen:**
+
+Xunzheng Chen's strong interpersonal skills make him an excellent team player. During previous collaborative projects, he demonstrated a keen ability to listen to others' ideas, offer constructive feedback, and work harmoniously with team members. This collaborative spirit is vital for ensuring effective communication and a positive team dynamic.
+Xunzheng is not just a contributor; he is an active participant in discussions. His willingness to share insights and propose creative solutions fosters an environment of innovation. This will be particularly beneficial as we brainstorm and implement unique features for our content management system.
+
+**Xinyue Li:**
+
+Xinyue Li's meticulous attention to detail is a standout quality. In a project like ours, where precision is crucial for the smooth functioning of a content management system, her commitment to accuracy will ensure that our final product meets high standards.
+Furthermore, Xinyue has a strong organizational skill set. She excels at managing deadlines and project timelines efficiently. Her ability to keep the team organized and on schedule will contribute significantly to the successful completion of our CMS assignment, allowing us to deliver a polished and well-executed project.
+
+In summary, Haidong Wang's technical expertise, Xunzheng Chen's collaborative nature, and Xinyue Li's attention to detail and organizational skills collectively form a well-rounded team poised for success in our content management system assignment.
